@@ -1,5 +1,5 @@
-import React from 'react'
-import * as ChatTypes from '../../types/Chat.type'
+import React from 'react';
+import * as ChatTypes from '../../types/Chat.type';
 
 interface MessageProps {
   isMine: boolean

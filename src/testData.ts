@@ -1,4 +1,4 @@
-import * as ChatTypes from './types/Chat.type'
+import * as ChatTypes from "./types/Chat.type"
 
 const DUMMY_USERS = [
     { uuid: 'test-user-1', name: 'James' },

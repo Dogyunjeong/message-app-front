@@ -1,8 +1,8 @@
-import React from "react";
-import { useHistory } from 'react-router-dom'
-import * as ChatTypes from '../../types/Chat.type'
-import ListItem from "@material-ui/core/ListItem";
-import ListItemText from "@material-ui/core/ListItemText";
+import React from 'react';
+import { useHistory } from 'react-router-dom';
+import * as ChatTypes from '../../types/Chat.type';
+import ListItem from '@material-ui/core/ListItem';
+import ListItemText from '@material-ui/core/ListItemText';
 
 interface ChatListItemProps {
   chatRoom: ChatTypes.ChatRoom
